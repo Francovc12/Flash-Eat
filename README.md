@@ -1,4 +1,4 @@
-# Flash-Eat "En Desarollo"🏗️
+# Flash-Eat "En Desarrollo"🏗️
 
 ## 🚀 Acerca de Flash-Eat 🍔 🍺 🍕
 Es una Aplicación web en donde negocios independientes de comida rapida pueden registrarse para ofrecer sus platos, descuentos, promocionarse a si mismos y a sus mejores platos.
